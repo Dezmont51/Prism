@@ -62,7 +62,7 @@ Multiple parameters can be specified by using `|` as separator, some parameters 
 {code}
 ```
 
-Default language is **Ruby**:
+Default language is **BSL**:
 
 ```
 {code}
