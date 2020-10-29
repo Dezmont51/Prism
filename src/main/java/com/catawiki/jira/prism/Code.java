@@ -38,7 +38,7 @@ public class Code extends BaseMacro {
         ImmutableMap.Builder<String, Object> templateParams = ImmutableMap.builder();
 
         // Default language
-        String language = "ruby";
+        String language = "bsl";
 
         // Code body
         templateParams.put("content", body);
